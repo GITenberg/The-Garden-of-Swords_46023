@@ -1,0 +1,36 @@
+_repo: The-Garden-of-Swords_46023
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+covers:
+- cover_type: archival
+  image_path: 46023-h/images/cover-small.jpg
+creator:
+  author:
+    agent_name: Pemberton, Max
+    alias: Pemberton, Sir Max
+    birthdate: 1863
+    deathdate: 1950
+    gutenberg_agent_id: '32059'
+    url: http://www.gutenberg.org/2009/agents/32059
+    wikipedia: http://en.wikipedia.org/wiki/Max_Pemberton
+description: ''
+gutenberg_issued: '2014-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Franco-Prussian War, 1870-1871 -- Fiction'
+title: The Garden of Swords
+url: http://www.gutenberg.org/ebooks/46023
